@@ -1,6 +1,9 @@
 # projeto-dio-planejamento-financeiro
 
-Lint - O que é?
+Rodar o Projeto
+
+go run main.go
+
 
 Rodar testes:
 
